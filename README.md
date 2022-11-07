@@ -14,6 +14,10 @@
 ### 참고
  * 배지는 https://shields.io/
  * 아이콘은 https://simpleicons.org/
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
 <!--
 
 Here are some ideas to get you started:
