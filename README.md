@@ -2,7 +2,7 @@
 - 👯 나의 홈페이지 [이동](https://dongik9.github.io/devportfolio/)
 
 ### 오늘의 학습 내용 
-🌱 오늘의 할 일을 정리하기 [이동](https://github.com/dongik9/Today_TodoList) 
+- 🌱 오늘의 할 일을 정리하기 [이동](https://github.com/dongik9/Today_TodoList) 
 
 
 ### 음악감상
@@ -10,6 +10,10 @@
  * 가을에 듣는 명곡 [이동](https://www.youtube.com/watch?v=OA4xWoZ6Ygo)
  * 미술관에 온 듯🎻여유롭고 클래식한 피아노 연주곡(https://www.youtube.com/watch?v=_dn5vYN2GWY)
 
+
+### 참고
+ * 배지는 https://shields.io/
+ * 아이콘은 https://simpleicons.org/
 <!--
 
 Here are some ideas to get you started:
