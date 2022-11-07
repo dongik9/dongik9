@@ -2,8 +2,7 @@
 - 👯 나의 홈페이지 [이동](https://dongik9.github.io/devportfolio/)
 
 ### 오늘의 학습 내용 
-🌱 내용 : 학습 내용을 간단하게 정리 <br>
-😄 해당 저장소로 [이동하기](https://github.com/LDJWJ/Today_Schedule) 
+🌱 오늘의 할 일을 정리하기 [이동](https://github.com/dongik9/Today_TodoList) 
 
 
 ### 음악감상
